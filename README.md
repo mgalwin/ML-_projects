@@ -1,1 +1,2 @@
-# ML-_projects
+The goal of this analysis is to examine and predict salary outcomes with precision. This study strives to furnish invaluable insights into the current salary trajectories in the realm of data science, simultaneously laying a robust foundation for future explorations into the impact of key determinants like experience level, employment type, company size, and geographical location on the wage structures within this swiftly advancing profession.
+
